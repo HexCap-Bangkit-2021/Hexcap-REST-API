@@ -41,6 +41,7 @@ type Trivia struct {
 type Article struct {
 	ID          int         `json:"id"`
 	Category    string      `json:"category"`
+	Title       string      `json:"title"`
 	Writer      string      `json:"writer"`
 	Description string      `json:"description"`
 	Img         string      `json:"img"`
