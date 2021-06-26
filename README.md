@@ -48,22 +48,22 @@ These are API endpoints available categorized by its table in database
 
 Get all trivias, METHOD = GET
 ```bash
-http://34.101.198.95:3000/api/trivias
+http://34.101.222.98:3000/api/trivias
 ```
 
 Create Trivia, METHOD = POST
 ```bash
-http://34.101.198.95:3000/api/trivia/create
+http://34.101.222.98:3000/api/trivia/create
 ```
 
 Update Trivia, METHOD = PUT
 ```bash
-http://34.101.198.95:3000/api/trivia/{id}/update
+http://34.101.222.98:3000/api/trivia/{id}/update
 ```
 
 Delete Trivia, METHOD = DELETE
 ```bash
-http://34.101.198.95:3000/api/trivia/{id}/delete
+http://34.101.222.98:3000/api/trivia/{id}/delete
 ```
 
 
@@ -71,22 +71,22 @@ http://34.101.198.95:3000/api/trivia/{id}/delete
 
 Get all Candi, METHOD = GET
 ```bash
-http://34.101.198.95:3000/api/candis
+http://34.101.222.98:3000/api/candis
 ```
 
 Create Candi, METHOD = POST
 ```bash
-http://34.101.198.95:3000/api/candi/create
+http://34.101.222.98:3000/api/candi/create
 ```
 
 Update Candi, METHOD = PUT
 ```bash
-http://34.101.198.95:3000/api/candi/{id}/update
+http://34.101.222.98:3000/api/candi/{id}/update
 ```
 
 Delete Candi, METHOD = DELETE
 ```bash
-http://34.101.198.95:3000/api/candi/{id}/delete
+http://34.101.222.98:3000/api/candi/{id}/delete
 ```
 
 
@@ -94,27 +94,27 @@ http://34.101.198.95:3000/api/candi/{id}/delete
 
 Get all Article, METHOD = GET
 ```bash
-http://34.101.198.95:3000/api/articles
+http://34.101.222.98:3000/api/articles
 ```
 
 Get all Article by category, METHOD = GET
 ```bash
-http://34.101.198.95:3000/api/article/{category}
+http://34.101.222.98:3000/api/article/{category}
 ```
 
 Create Article, METHOD = POST
 ```bash
-http://34.101.198.95:3000/api/article/create
+http://34.101.222.98:3000/api/article/create
 ```
 
 Update Article, METHOD = PUT
 ```bash
-http://34.101.198.95:3000/api/article/{id}/update
+http://34.101.222.98:3000/api/article/{id}/update
 ```
 
 Delete Article, METHOD = DELETE
 ```bash
-http://34.101.198.95:3000/api/article/{id}/delete
+http://34.101.222.98:3000/api/article/{id}/delete
 ```
 
 ## Contributing 👼🏿
